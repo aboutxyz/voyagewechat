@@ -1,2 +1,0 @@
-# voyagewechat
-wechat voyagecheck
